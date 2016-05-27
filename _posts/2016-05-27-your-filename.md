@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 테스트
 ### 테스트
